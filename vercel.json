@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/netflix.html",
+      "permanent": true
+    }
+  ]
+}
